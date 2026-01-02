@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:lapis_lazuli"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_lapis"
+  }
+}

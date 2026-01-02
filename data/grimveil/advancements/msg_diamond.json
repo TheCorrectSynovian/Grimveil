@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:diamond"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_diamond"
+  }
+}

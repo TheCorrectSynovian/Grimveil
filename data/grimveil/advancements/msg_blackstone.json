@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:blackstone"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_blackstone"
+  }
+}

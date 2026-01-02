@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:enchanting_table"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_enchant"
+  }
+}

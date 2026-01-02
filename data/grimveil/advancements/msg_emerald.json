@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:emerald"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_emerald"
+  }
+}

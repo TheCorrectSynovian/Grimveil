@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:obsidian"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_obsidian"
+  }
+}

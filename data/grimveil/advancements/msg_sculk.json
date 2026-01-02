@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:sculk_sensor"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_sculk"
+  }
+}

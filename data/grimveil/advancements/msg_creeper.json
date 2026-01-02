@@ -1,0 +1,16 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:creeper"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:msg_creeper"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "grimveil:welcome",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": "minecraft:dirt"}]
+      }
+    }
+  },
+  "rewards": {
+    "function": "grimveil:dirt_broken"
+  }
+}
