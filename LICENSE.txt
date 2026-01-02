@@ -1,57 +1,117 @@
-FAITHFUL LICENSE
-Version 3 - 20th February 2023
+**Grimveil Resource Pack License**
+
+Resource Pack Name: **Grimveil**
+Resolution: **32×32**
+Target Game Version: **Minecraft Java Edition 1.21.10+**
+Project Type: Public Resource Pack (distributed on CurseForge, GitHub, etc.)
+
+---
+
+### Copyright © Grimveil Resource Pack
+
+Copyright © 2026 PG Studios (alias: **Quantum Creeper / TheCorrectSynovian - GitHub**)
+
+All original textures, concepts, and modifications that are part of **Grimveil** are created by the Grimveil team (textures will be fully replaced from placeholders over time).
+
+---
+
+### This pack uses **Faithful 32×32** textures as placeholders.
+
+We are using them **only under the allowed terms**, specifically:
+
+✔ Use of textures as **placeholders and base reference**
+✔ **Not monetizing textures directly**
+✔ **Not claiming placeholder textures as ours**
+✔ **Full credit and license inclusion provided below**
+
+---
+
+### **Credits for Faithful 32×32 placeholders**
+
+* Original Resource Pack: **Faithful 32×32**
+* Maintained By: **Faithful Team**
+* Website: **faithfulpack.net**
+* Usage:
+
+  * Common Block placeholders (e.g., dirt, stone, planks, ores)
+  * Entity placeholders (common mobs used for reference before replacement)
+  * Unmodified Faithful textures will remain in the final Grimveil pack.
+* Full Faithful license is included **below, unmodified**, as required.
+
+---
+
+### Your rights for Grimveil pack:
+
+You may:
+
+1. Modify or replace Grimveil’s *original* assets freely.
+2. Use Grimveil for personal gameplay, servers, adventure maps, and modded content.
+3. Redistribute Grimveil **only if**:
+
+   * You do **not** mark it as "Official Faithful" or copy their branding.
+   * You give **proper attribution** to Grimveil.
+4. Share videos or streams using Grimveil without restrictions.
+
+You may NOT:
+
+1. Sell or paywall Grimveil downloads or textures.
+2. Claim placeholder textures (Faithful) as yours.
+3. Upload this pack to Minecraft Marketplace or monetize the textures themselves.
+
+---
+
+## ⚠️ Important Notice
+
+This resource pack is **not official** to Mojang or Faithful.
+This is a **horror-themed community remix project** using assets from Faithful and PG - QC Studios
+
+---
+
+---
+
+# **FAITHFUL LICENSE (Included unmodified as required)**
+
+**Version 3 — 20th February 2023**
 
 Copyright © Faithful Resource Pack
 
-
 You may do the following:
 
-
 1: Use our work as placeholders.
-
 2: Use our work as a base or reference for your own content (e.g. modded textures, content creator edits).
-
 3: Use a few textures that you cannot properly make, such as painting or particle textures.
-
 4: Distribute a modified copy of a pack as a content creator with your videos or streams.
-
 5: Use our work for adventure maps, server resource packs, mod textures, or data packs.
-
 
 By doing any of the above, you agree to follow these requirements:
 
-
-1: Give clear credit in an appropriate place (e.g. video descriptions, pack.mcmetas, listing descriptions).
-
-2: Link back to our website, which you can find here:
-	https://faithfulpack.net/
-
-3: Don't take credit for work you didn't make and always give proper attribution to any work you use or modify. In addition, try to be somewhat specific about what you're using, as "GUI originally from Faithful 32x" works a lot better than "some textures from Faithful". Just be honest about what you're using, use common sense when in doubt, and you'll be fine.
-
-4: Do not monetize content that contains any of our work, modified or not, under any circumstances. This includes locking your content behind a paywall (including the Minecraft Marketplace) or monetizing download links. Taking voluntary donations is still allowed, but if it feels like you're profiting off our work don't do it.
-
-5: Don't make your projects look official when they aren't. Examples of this behavior would include copying our branding or marking a project as "official" in a way that would confuse the average viewer into believing a project is official when it isn't.
-
+1: Give clear credit in an appropriate place (e.g. video descriptions, pack.mcmeta, listing descriptions).
+2: Link back to our website: faithfulpack.net
+3: Don't take credit for work you didn't make and always give proper attribution.
+4: Do not monetize content that contains any of our work under any circumstances.
+5: Don't make your projects look official when they aren't.
 6: This file, unmodified, must be included in any content which contains any of our work.
-
 
 Exceptions:
 
-
-1: If you're doing anything privately or undistributed to our work (e.g. custom edit for personal use, unpublished add-ons, mod support, personal Minecraft server resource pack, or edits either by you or from different packs) you can safely disregard all of these requirements since you are not gaining unfairly from us in any form.
-
-2: Projects not directly related to textures (e.g. website, bot) may have separate licenses with different terms. Check their respective pages or repositories for more information. If nothing is mentioned, assume that all rights remain reserved.
-
-3: If you are using textures made before March 2016 (Minecraft Release 1.9). These textures are licensed under Vattic's original Faithful 32x32 license, which has different requirements compared with this license. If you're interested, you can find the original license here under "Usage Guidelines":
-	https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
-
-
+1: Private or undistributed edits can disregard these requirements.
+2: Projects not directly related to textures may have separate licenses.
+3: Textures before March 2016 follow Vattic’s original license.
 
 We reserve the right to:
 
+1: Refuse use rights for any person or group.
+2: Take legal action if you do not comply.
+3: Change this license at any time.
 
-1: Refuse the ability to use, distribute, or modify any work made by us for any person or group. This action would be final, generally only in the case of unusual circumstances.
+---
 
-2: Take legal action if you do not comply with these guidelines.
+---
 
-3: Change this license at any time for any reason.
+If you package Grimveil with any Faithful placeholders, **this license must remain inside the ZIP exactly like this**.
+
+---
+
+Signed,
+**Quantum Creeper (Grimveil Resource Pack Project)**
+**Textures will be replaced with original horror-themed assets progressively.**
